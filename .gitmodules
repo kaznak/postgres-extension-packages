@@ -1,0 +1,3 @@
+[submodule "packages/timescaledb-toolkit/repository"]
+	path = packages/timescaledb-toolkit/repository
+	url = git@github.com:timescale/timescaledb-toolkit.git
